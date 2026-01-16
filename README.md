@@ -26,8 +26,10 @@ Backend developer specializing in building reliable and scalable backend systems
 
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Belixk&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Max's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belixk&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" /> |
-| ------------- | ------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belixk&show_icons=true&count_private=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belixk&layout=compact&theme=dark&langs_count=6) |
+| :---: | :---: |
+
+**Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
 
 </div>
 
