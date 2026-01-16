@@ -10,13 +10,9 @@ Backend developer specializing in building reliable and scalable backend systems
 - 🚀 Focused on performance and maintainability
 
 ## 🛠 Tech Stack
-- **Languages:** Go, SQL, Bash
-- **Databases:** PostgreSQL, Redis
-- **Messaging:** Kafka, RabbitMQ
-- **APIs:** REST, gRPC, GraphQL
-- **Infrastructure:** Docker, Docker Compose, Linux, CI/CD (GitHub Actions)
-- **Architecture:** Clean Architecture, DDD, Microservices
-- **Tools:** Git, Makefile, PostgreSQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,postgresql,redis,docker,linux,git,github,postman&theme=dark" alt="Tech Stack" />
+</p>
 
 ## 📌 Featured Projects
 
@@ -29,22 +25,17 @@ Backend developer specializing in building reliable and scalable backend systems
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belixk&show_icons=true&theme=dark&hide_border=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belixk&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Belixk&theme=dark&hide_border=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Belixk&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Max's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belixk&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" /> |
+| ------------- | ------------- |
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Activity
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Belixk&theme=onedark&no-frame=true&row=2&column=4)
-
-## 📈 Activity Graph
-
-[![Max's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Belixk&theme=github-dark&hide_border=true)](https://github.com/Belixk)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belixk&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
 
 ## 📫 Connect With Me
 
