@@ -22,16 +22,6 @@ Backend developer specializing in building reliable and scalable backend systems
 [![CommerceTwo](https://img.shields.io/badge/🚀_View_Project-CommerceTwo-blue)](https://github.com/Belixk/CommerceTwo)
 [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)](https://golang.org/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/Belixk">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Belixk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Max's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Belixk&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
-</a>
-
-</div>
-
 ## 📈 Activity
 
 <p align="center">
