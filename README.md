@@ -14,7 +14,7 @@ Backend developer specializing in building reliable and scalable backend systems
   <img src="https://skillicons.dev/icons?i=go,postgresql,redis,docker,linux,git,github,postman&theme=dark" alt="Tech Stack" />
 </p>
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🛒 CommerceTwo
 **Backend platform for users and orders with caching, clean architecture and async processing.**
