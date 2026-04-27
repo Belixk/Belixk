@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Max — Backend Go Developer
 
-<!--
-**Belixk/Belixk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer specializing in building reliable and scalable backend systems using Go.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 💻 Backend developer (Go)
+- 🏗 Experience with microservices and Clean Architecture
+- 🗄 PostgreSQL, Redis, Kafka
+- 🧪 Unit testing, code quality, refactoring
+- 🚀 Focused on performance and maintainability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,postgresql,redis,docker,linux,git,github,postman&theme=dark" alt="Tech Stack" />
+</p>
+
+[![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)](https://golang.org/)
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belixk&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="..." target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/Belixk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+⭐️ *From [Belixk](https://github.com/Belixk)*
